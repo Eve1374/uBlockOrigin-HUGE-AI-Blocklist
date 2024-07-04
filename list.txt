@@ -17,6 +17,8 @@
 ! Keep your chin up--we will get through this together <33
 ! Have a happy day!
 
+! Pinterest
+google.com,duckduckgo.com,bing.com##a[href*="pinterest.com"]:upward(div):style(opacity:0.00!important;)
 
 !//// Sites hosting nothing but AI generated content/solely focused on AI/has an abundance of AI generated imagery... 100% confirmed
 
