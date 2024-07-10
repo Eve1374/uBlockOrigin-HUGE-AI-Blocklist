@@ -7,6 +7,9 @@
 ! PRs: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/pulls
 ! Feel free to fork and submit pr's if you find more sites 
 
+! File to add to block : https://raw.githubusercontent.com/eve1374/uBlockOrigin-HUGE-AI-Blocklist/Eve/list.txt
+
+
 ! HAPPY PRIDE MONTH
 
 ! Please support authentic artists! Whether it be commissions or donations, an amount of any size helps!
@@ -24,6 +27,11 @@ google.com,duckduckgo.com,bing.com##a[href*="pinterest"]:upward(div):style(opaci
 !google.com,duckduckgo.com,bing.com##a[href*="pinterest.com"]:upward(div):style(opacity:0.00!important;)
 !google.com,duckduckgo.com,bing.com##a[href*="pinterest.com"]:upward(div):style(opacity:0.00!important;)
 !google.com,duckduckgo.com,bing.com##a[href*="pinterest.com"]:upward(div):style(opacity:0.00!important;)
+
+!Stackoverflow  and stackexchange, don't disable on google (in case of emergency)
+duckduckgo.com,bing.com##a[href*="stackoverflow"]:upward(div):style(opacity:0.00!important;)
+duckduckgo.com,bing.com##a[href*="stackexchange"]:upward(div):style(opacity:0.00!important;)
+
 
 !//// Sites hosting nothing but AI generated content/solely focused on AI/has an abundance of AI generated imagery... 100% confirmed
 
